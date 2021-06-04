@@ -6,6 +6,8 @@ Commons-IO from apache is needed for this project. Since commons-io it is not OS
 
 http://download.eclipse.org/tools/orbit/downloads/drops/R20170303204511/repository/plugins/org.apache.commons.io_2.2.0.v201405211200.jar
 
+Once Downloader Portlet is installed, create a page and drag and drop the portlet on in.
+
 reference: https://download.eclipse.org/tools/orbit/downloads/drops/R20170919201930/
 
  
